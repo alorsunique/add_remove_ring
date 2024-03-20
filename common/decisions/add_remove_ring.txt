@@ -1,0 +1,41 @@
+planet_add_rings = {
+	owned_planets_only = no
+	icon = decision_planet_rings_action
+	enactment_time = 0
+	resources = {
+		category = decisions
+		cost = {
+			minerals = 100
+		}
+	}
+	potential = {
+		has_ring = no
+	}
+	allow = {
+		always = yes
+	}
+	effect = {
+		set_ring = yes
+	}
+}
+
+planet_remove_rings = {
+	owned_planets_only = no
+	icon = decision_planet_rings_action
+	enactment_time = 0
+	resources = {
+		category = decisions
+		cost = {
+			energy = 100
+		}
+	}
+	potential = {
+		has_ring = yes
+	}
+	allow = {
+		always = yes
+	}
+	effect = {
+		set_ring = no
+	}
+}
