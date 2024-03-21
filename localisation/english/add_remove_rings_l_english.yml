@@ -1,7 +1,7 @@
 ﻿l_english:
  
- planet_add_rings:0 "Create ring around the body"
- planet_remove_rings:0 "Remove ring around the body"
+ planet_add_rings:0 "Create Ring Around the Body"
+ planet_remove_rings:0 "Remove Ring Around the Body"
 
  planet_add_rings_desc:1 "Modify ring status"
  planet_remove_rings_desc:1 "Modify ring status"
