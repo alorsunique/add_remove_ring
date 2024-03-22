@@ -1,7 +1,7 @@
 planet_add_rings = {
 	owned_planets_only = no
 	icon = decision_planet_rings_action
-	enactment_time = 0
+	enactment_time = 15
 	resources = {
 		category = decisions
 		cost = {
@@ -24,7 +24,7 @@ planet_add_rings = {
 planet_remove_rings = {
 	owned_planets_only = no
 	icon = decision_planet_rings_action
-	enactment_time = 0
+	enactment_time = 15
 	resources = {
 		category = decisions
 		cost = {
