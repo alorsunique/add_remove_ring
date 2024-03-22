@@ -10,6 +10,8 @@ planet_add_rings = {
 	}
 	potential = {
 		has_ring = no
+		is_star = no
+		is_artificial = no
 	}
 	allow = {
 		always = yes
